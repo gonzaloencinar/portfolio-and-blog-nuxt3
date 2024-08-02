@@ -1,0 +1,12 @@
+<template>
+  <div>Projects</div>
+  <section v-if="pending">Loading...</section>
+  <section v-else-if="error">Something went wrong...</section>
+  <section v-else>We display the repos!</section>
+</template>
+
+<script setup>
+const { error, pending, data } = await useFetch(
+  "https://api.github.com/users/gonzaloencinar/repos"
+);
+</script>
