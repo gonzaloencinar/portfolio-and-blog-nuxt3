@@ -7,3 +7,5 @@ In this blog, I'll be covering various topics related to software development, p
 I hope you find my content informative and engaging. Feel free to leave comments and share your own insights. Let's embark on this coding journey together!
 
 Stay tuned for more exciting posts coming soon!
+
+### Probando esto de Nuxt Studio!
