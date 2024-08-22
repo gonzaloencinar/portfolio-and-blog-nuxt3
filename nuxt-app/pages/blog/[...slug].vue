@@ -1,10 +1,9 @@
 <template>
-  <article>
+  <article class="prose lg:prose-xl dark:prose-invert">
     <ContentDoc />
   </article>
 </template>
 
 <script setup>
 const route = useRoute();
-console.log(route.params.slug);
 </script>

@@ -1,16 +1,8 @@
+import { ContentDoc } from '../.nuxt/components';
 <template>
-  <div>This is an about me page.</div>
-  <!-- <div>
-    <button @click="enableCustomLayout">Update layout</button>
-  </div> -->
+  <article class="prose dark:prose-invert">
+    <ContentDoc path="/about"></ContentDoc>
+  </article>
 </template>
 
-<script setup>
-/* definePageMeta({
-  layout: "another",
-}); */
-
-/* function enableCustomLayout() {
-  setPageLayout("another");
-} */
-</script>
+<script setup></script>
