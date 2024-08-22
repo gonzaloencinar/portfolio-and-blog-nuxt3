@@ -1,3 +1,20 @@
+---
+description: "meta description of the page"
+head:
+  meta:
+    - name: "keywords"
+      content: "nuxt, vue, content"
+    - name: "robots"
+      content: "index, follow"
+    - name: "author"
+      content: "NuxtLabs"
+    - name: "copyright"
+      content: "© 2022 NuxtLabs"
+    - name: "og:title"
+      content: "This is an OpenGraph title"
+publishedAt: 2024-03-12 17:15:00
+---
+
 # Example Post 2024
 
 Welcome to my blog post for the year 2024! In this post, I will be discussing some exciting developments in the world of technology.

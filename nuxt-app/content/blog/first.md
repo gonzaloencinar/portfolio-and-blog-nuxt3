@@ -1,3 +1,11 @@
+---
+title: "One post 2023"
+description: "meta description of the page"
+publishedAt: 2023-03-12 17:15:00
+---
+
+<!-- Content of the page -->
+
 # My First Blog Post
 
 Welcome to my blog! This is my first post, and I'm excited to share my thoughts and experiences with you.

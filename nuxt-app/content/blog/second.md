@@ -1,3 +1,30 @@
+---
+title: "Second Post in same year (2023)"
+description: "What a lovely page."
+image:
+  src: "/assets/image.jpg"
+  alt: "An image showcasing My Page."
+  width: 400
+  height: 300
+head:
+  meta:
+    - name: "keywords"
+      content: "nuxt, vue, content"
+    - name: "robots"
+      content: "index, follow"
+    - name: "author"
+      content: "NuxtLabs"
+    - name: "copyright"
+      content: "© 2022 NuxtLabs"
+    - name: "og:title"
+      content: "Esto es una prueba"
+publishedAt: 2023-03-12 17:15:00
+---
+
+---
+
+<!-- Content of the page -->
+
 # Example Second Post in Markdown
 
 This is an example of a Markdown file. Markdown is a lightweight markup language that is commonly used for formatting text on the web. It allows you to easily create headings, lists, links, and more.
